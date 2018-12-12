@@ -1,1 +1,1 @@
-include ':command', ':singleton', ':observer', ':facade'
+include ':command', ':singleton', ':observer', ':facade', ':proxy'
